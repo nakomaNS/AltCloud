@@ -1,14 +1,14 @@
 # AltCloud
 
-Sincronize seus jogos "Non-steam" com a Nuvem Oficial da Steam
+Sincronize seus jogos Non-Steam com a Nuvem Oficial da Steam
 
 Seu progresso, seguro na sua conta e acessível de qualquer PC.
 
-![Demonstração do AltCloud](https://i.imgur.com/link-para-sua-imagem.gif)
+![Demonstração do AltCloud](https://i.imgur.com/QWNBzKB.png)
 
 **🎮 Escolha seu jogo**
 
-**☁️ Sincronize na sua Steam Cloud**
+**☁️ Sincronize com a Steam Cloud**
 
 **💻 Continue seu progresso em qualquer PC**
 
@@ -44,3 +44,4 @@ Nunca mais perca um save por um HD corrompido ou uma formatação inesperada.
 ## Contribuição
 
 Ideias, melhorias ou correções de bugs são sempre bem-vindas! Sinta-se à vontade para abrir uma *issue* ou enviar um *Pull Request*.
+
