@@ -7,14 +7,8 @@ Seu progresso, seguro na sua conta e acessível de qualquer PC.
 ![Demonstração do AltCloud](https://i.imgur.com/QWNBzKB.png)
 
 **🎮 Escolha seu jogo**
-
 **☁️ Sincronize com a Steam Cloud**
-
 **💻 Continue seu progresso em qualquer PC**
-
-## Pré-requisitos
-
-**[Cliente Steam](https://store.steampowered.com/about/)**: Precisa estar instalado e aberto.
 
 ## Download
 
@@ -24,6 +18,10 @@ Baixe a versão mais recente para Windows na nossa página de Releases:
 
 **Observação: Por ser um software de um desenvolvedor independente, o Windows pode exibir um aviso de segurança (SmartScreen). Se isso acontecer, clique em "Mais informações" e depois em "Executar assim mesmo". 
 Não se preocupe, todo o código do programa é aberto e pode ser verificado.**
+
+## Pré-requisitos
+
+**[Cliente Steam](https://store.steampowered.com/about/)**: Precisa estar instalado e aberto.
 
 ## Sobre o Projeto
 
@@ -44,5 +42,6 @@ Nunca mais perca um save por um HD corrompido ou uma formatação inesperada.
 ## Contribuição
 
 Ideias, melhorias ou correções de bugs são sempre bem-vindas! Sinta-se à vontade para abrir uma *issue* ou enviar um *Pull Request*.
+
 
 
